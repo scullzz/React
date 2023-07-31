@@ -1,0 +1,38 @@
+.text{
+    padding-left: 20px;
+}
+.img1{
+    padding: 20px;
+    border: 1px solid black;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+}
+.carousel{
+    padding-top: 40px;
+    padding-right: 35px;
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+.main_flex{
+    height: 200px;
+    background-color: rgb(203, 203, 203);
+}
+.mini_flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.slick-slide div{
+    margin: 10px;
+}
+.text1{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.slick-track{
+    margin: 0;
+}
